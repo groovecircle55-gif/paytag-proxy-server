@@ -1,6 +1,6 @@
 # Paytag M-Pesa Proxy Server
 
-Node.js proxy server to handle M-Pesa API requests with correct Origin header (102.212.246.90).
+Node.js proxy server to handle M-Pesa API requests with correct Origin header (69.167.136.50).
 
 ## Installation
 
